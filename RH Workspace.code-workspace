@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "../ahrefs_data"
+		},
+		{
+			"name": "rh_product_monitor",
+			"path": "."
+		},
+		{
+			"path": "../analyser_pipeline_v2"
+		},
+		{
+			"name": "query-optimisation-2-0",
+			"path": "../query-optimisation-2-0"
+		}
+	],
+	"settings": {}
+}
